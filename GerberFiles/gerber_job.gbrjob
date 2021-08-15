@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2021-08-05T17:43:34Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.7.0"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "ViveTrackerInterfaceBoard (v2~recovered)"
+        },
+        "Owner": "aawilliams85 <adair.williams85@gmail.com>",
+        "Size": {
+            "X": 29,
+            "Y": 22
+        }
+    }
+}
