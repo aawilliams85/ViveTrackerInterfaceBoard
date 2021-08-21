@@ -2,7 +2,7 @@
 
 Custom replacement interface board for the Vive Tracker 2.0.  This allows power, USB 2.0 data, and discrete I/O to be used through a single 2x5 pin 0.1" header for easier prototyping.
 
-![Tracker After Installation](Images/Tracker_After.jpg)
+![](Images/Tracker_Pinout.jpg)
 
 
 # Bill of materials
@@ -52,7 +52,7 @@ Connector new board to the FPC, then mount into the bottom shell.  After replaci
 
 ![](Images/Installation_06_Attach_Board.jpg)
 
-Comparison before and after:
+Comparison after (left) and before (right):
 
 ![](Images/Tracker_Before_After.jpg)
 ![](Images/Tracker_After_With_Cable.jpg)
