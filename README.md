@@ -6,7 +6,7 @@ Custom replacement interface board for the Vive Tracker 2.0.  This allows power,
 
 Torx T4 bit\
 Guitar pick or similar to release clips on top shell\
-Electrical tape\
+Electrical tape
 
 # Bill of materials
 
