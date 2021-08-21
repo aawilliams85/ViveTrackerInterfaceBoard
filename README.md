@@ -54,5 +54,5 @@ Connector new board to the FPC, then mount into the bottom shell.  After replaci
 
 Comparison before and after:
 
-![}(Images/Tracker_Before_After.jpg)
-![}(Images/Tracker_After_With_Cable.jpg)
+![](Images/Tracker_Before_After.jpg)
+![](Images/Tracker_After_With_Cable.jpg)
