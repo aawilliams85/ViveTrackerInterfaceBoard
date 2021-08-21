@@ -49,7 +49,7 @@ Using needle-nose pliers, snap out the plastic dividers.  If necessary, sand the
 ![](Images/Installation_04_Snap_Dividers.jpg)
 ![](Images/Installation_05.jpg)
 
-Connector new board to the FPC, then mount into the bottom shell.  After replacing all four T4 screws, put electrical tape over the screw heads.  Carefully lower electronics back into the bottom shell; feed the excess FPC back into the electronics module so that it doesn't get folder under.  Replace T4 screw on the top side.  Replace top shell.  Replace three T4 screws on the bottom side, and then finally replace the rubber cover.
+Connect new board to the FPC, then mount into the bottom shell.  After replacing all four T4 screws, put electrical tape over the screw heads.  Carefully lower electronics back into the bottom shell; feed the excess FPC back into the electronics module so that it doesn't get folder under.  Replace T4 screw on the top side.  Replace top shell.  Replace three T4 screws on the bottom side, and then finally replace the rubber cover.
 
 ![](Images/Installation_06_Attach_Board.jpg)
 
