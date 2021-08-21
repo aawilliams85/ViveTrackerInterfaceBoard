@@ -27,8 +27,8 @@ Electrical tape
 
 Turn the tracker over and peel away the rubber cover; set aside.  This will reveal three T4 screws to be removed.\
 
-[](Images/Installation_01_Remove_Screws.jpg)
+![](Images/Installation_01_Remove_Screws.jpg)
 
 Run guitar pick around the seam between the top and bottom shells until all clips are released.  After top shell is removed, another T4 screw will be revealed.  Remove it.\
 
-[](Images/Installation_02_Remove_Shell.jpg)
+![](Images/Installation_02_Remove_Shell.jpg)
