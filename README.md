@@ -4,7 +4,9 @@ Custom replacement interface board for the Vive Tracker 2.0.  This allows power,
 
 # Bill of materials
 
-3M M3AAA-1006J, 2x5 position IDC cable 6 inches, QTY 1 (https://www.digikey.com/en/products/detail/3m/M3AAA-1006J/229950) (Optional)
-Molex 5034801600, 16 position FPC connector 0.5mm pitch, QTY 1 (https://www.digikey.com/en/products/detail/molex/5034801600/2356646)
-TE Connectivity 1932788-1, USB micro B connector reverse mounted, QTY 1, (https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/1932788-1/4731822?s=N4IgTCBcDaIIwE4DMYDsAOdBaOIC6AvkA)
-Samsung CL31B105KBHNFNE, 1206 capacitor 1uF, QTY 1 (https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KBHNFNE/3891177)
+| Vendor          | Part Number     | Description                            | Link                                                                |
+| --------------- | --------------- | -------------------------------------- |-------------------------------------------------------------------- |
+| 3M              | M3AAA-1006J     | 2x5 position IDC cable, 6 inches       | https://www.digikey.com/en/products/detail/3m/M3AAA-1006J/229950    |
+| Molex           | 5034801600      | 16 position FPC connector, 0.5mm pitch | https://www.digikey.com/en/products/detail/molex/5034801600/2356646 |
+| TE Connectivity | 1932788-1       | USB micro B connector, reverse mounted | https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/1932788-1/4731822?s=N4IgTCBcDaIIwE4DMYDsAOdBaOIC6AvkA
+| Samsung         | CL31B105KBHNFNE | Capacitor, 1206, 1uF                   | https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KBHNFNE/3891177
