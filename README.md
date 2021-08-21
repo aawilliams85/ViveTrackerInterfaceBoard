@@ -9,6 +9,7 @@ Custom replacement interface board for the Vive Tracker 2.0.  This allows power,
 
 | Vendor          | Part Number     | Description                            | Link                                                                |
 | --------------- | --------------- | -------------------------------------- |-------------------------------------------------------------------- |
+| Any             | Interface Board | Recommend OSH Park 2oz-0.8mm PCB       | https://oshpark.com/                                                |
 | 3M              | M3AAA-1006J     | 2x5 position IDC cable, 6 inches       | https://www.digikey.com/en/products/detail/3m/M3AAA-1006J/229950    |
 | Molex           | 5034801600      | 16 position FPC connector, 0.5mm pitch | https://www.digikey.com/en/products/detail/molex/5034801600/2356646 |
 | TE Connectivity | 1932788-1       | USB micro B connector, reverse mounted | https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/1932788-1/4731822?s=N4IgTCBcDaIIwE4DMYDsAOdBaOIC6AvkA
@@ -26,7 +27,7 @@ Electrical tape
 
 # Installation steps
 
-First ensure that new interface board is assembled.
+First ensure that new interface board is assembled.  Note that header pins should be trimmed flush with the board.
 
 ![](Images/New_Board_Bottom.jpg)
 ![](Images/New_Board_Top.jpg)
