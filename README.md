@@ -16,6 +16,6 @@ Electrical tape
 | Molex           | 5034801600      | 16 position FPC connector, 0.5mm pitch | https://www.digikey.com/en/products/detail/molex/5034801600/2356646 |
 | TE Connectivity | 1932788-1       | USB micro B connector, reverse mounted | https://www.digikey.com/en/products/detail/te-connectivity-amp-connectors/1932788-1/4731822?s=N4IgTCBcDaIIwE4DMYDsAOdBaOIC6AvkA
 | Samsung         | CL31B105KBHNFNE | Capacitor, 1206, 1uF                   | https://www.digikey.com/en/products/detail/samsung-electro-mechanics/CL31B105KBHNFNE/3891177
-
+| Any             |                 | Header pins 0.1"                       |                                                                     |
 
 
