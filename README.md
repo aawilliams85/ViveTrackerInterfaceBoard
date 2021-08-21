@@ -20,10 +20,16 @@ Custom replacement interface board for the Vive Tracker 2.0.  This allows power,
 
 Torx T4 bit\
 Guitar pick or similar to release clips on top shell\
+Needle-nose pliers
 Electrical tape
 
 
-# Installation steps after board is assembled
+# Installation steps
+
+First ensure that new interface board is assembled.
+
+![](Images/New_Board_Bottom.jpg)
+![](Images/New_Board_Top.jpg)
 
 Turn the tracker over and peel away the rubber cover; set aside.  This will reveal three T4 screws to be removed.
 
@@ -32,3 +38,21 @@ Turn the tracker over and peel away the rubber cover; set aside.  This will reve
 Run guitar pick around the seam between the top and bottom shells until all clips are released.  After top shell is removed, another T4 screw will be revealed.  Remove it.
 
 ![](Images/Installation_02_Remove_Shell.jpg)
+
+Carefully lift the electronics up from the bottom shell; avoid stressing the flexible printed circuit (FPC) that will still be attached to the interface board in the bottom shell.  Lift the release latch on the FPC connector and remove the FPC to free the electronics module.  The bottom shell may have tape over the corners of the interface board; remove this to reveal four more T4 screws to remove.  Finally, remove the interface board from the bottom shell.
+
+![](Images/Installation_03_Remove_Electronics.jpg)
+
+Using needle-nose pliers, snap out the plastic dividers.  If necessary, sand the edges to make enough clearance for pin headers to pass through.
+
+![](Images/Installation_04_Snap_Dividers.jpg)
+![](Images/Installation_05.jpg)
+
+Connector new board to the FPC, then mount into the bottom shell.  After replacing all four T4 screws, put electrical tape over the screw heads.  Carefully lower electronics back into the bottom shell; feed the excess FPC back into the electronics module so that it doesn't get folder under.  Replace T4 screw on the top side.  Replace top shell.  Replace three T4 screws on the bottom side, and then finally replace the rubber cover.
+
+![](Images/Installation_06_Attach_Board.jpg)
+
+Comparison before and after:
+
+![}(Images/Tracker_Before_After.jpg)
+![}(Images/Tracker_After_With_Cable.jpg)
